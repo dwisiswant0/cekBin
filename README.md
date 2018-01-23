@@ -2,7 +2,7 @@
 
 [![release](https://img.shields.io/github/release/dwisiswant0/cekBin.svg)](https://github.com/dwisiswant0/cekBin/releases/)
 [![license](https://img.shields.io/github/license/dwisiswant0/cekBin.svg)](https://github.com/dwisiswant0/cekBin/blob/master/LICENSE)
-[![build](https://img.shields.io/travis/dwisiswant0/cekBin.svg)](https://travis-ci.org/dwisiswant0/cekBin/)
+[![Build Status](https://travis-ci.org/dwisiswant0/cekBin.svg?branch=master)](https://travis-ci.org/dwisiswant0/cekBin)
 [![downloads](https://img.shields.io/github/downloads/dwisiswant0/cekBin/latest/total.svg)](https://github.com/dwisiswant0/cekBin/releases/)
 [![contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwisiswant0/cekBin/issues)
 [![hits](http://hits.dwyl.com/dwisiswant0/cekBin.svg)](http://hits.dwyl.com/dwisiswant0/cekBin)

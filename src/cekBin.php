@@ -36,13 +36,13 @@ class cekBin {
 		if (strpos($http_response_header[0], "200") == true) {
 			return json_decode($response, true);
 		} else {
-			throw new Exception("Something wrong, but Idk why.");
+			throw new \Exception("Something wrong, but Idk why.");
 		}
 	}
 
 	public function check($bin) {
-		if (strlen($bin) <= 6 && !is_numeric($bin)) {
-			throw new Exception("Value must be six digits or more!");
+		if (strlen($bin) < 6 && !is_numeric($bin)) {
+			throw new \Exception("Value must be six digits or more!");
 		} else {
 			$post = self::call("no=" . $bin, "/bin/check");
 			return $post;

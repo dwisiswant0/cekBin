@@ -1,0 +1,23 @@
+{
+	"name": "dwisiswant0/cekBin",
+	"description": "Free source to check, verify & validate BIN (Bank Identification Number), credit, debit, charge or a prepaid card.",
+	"keywords": ["bin", "iin", "lookup", "checking", "validate", "verify", "credit", "card", "debit", "bank"],
+	"license": "MIT",
+	"homepage": "https://github.com/dwisiswant0/cekBin",
+	"time": "2018-01-23",
+	"authors": [{
+		"name": "Dwi Siswanto",
+		"email": "dwi.siswanto98@gmail.com",
+		"homepage": "https://dw1.website",
+		"role": "Developer"
+	}],
+	"support": {
+		"issues": "https://github.com/dwisiswant0/cekBin/issues",
+		"source": "https://github.com/dwisiswant0/cekBin/releases"
+	},
+	"autoload": {
+		"psr-4": {
+			"dwisiswant0\\": "src/"
+		}
+	}
+}
